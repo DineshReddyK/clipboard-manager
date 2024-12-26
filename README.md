@@ -2,7 +2,7 @@
 Pure python tkinter based clipboard manager.\
 This tool maintains a history of clipboard contents, allowing users to easily search and retrieve previously copied clips.
 
-Most of the python installations comes with tkinter so you don't need to install any specific pacakge for this to work.\
+Most of the python installations comes with tkinter so you don't need to install any specific pacakge for this to work.
 If you don't have tkinter module installed, follow the steps below
 
 #### Debian/Ubuntu:
