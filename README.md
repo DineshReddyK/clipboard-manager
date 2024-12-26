@@ -26,11 +26,8 @@ Windows should have it by default.
 
 ### Setting as a Startup Script
 1. Rename the `clipboard-manager.py` to `clipboard-manager.pyw`
-
 2. Press `Windows Key + R` to open the Run dialog box.
-
 3. Type `shell:startup` and press Enter to open the Startup folder.
-
 4. Create a shortcut to `clipboard-manager.pyw` file and place it in this folder.
 
 The script will run on startup without showing a console window.
