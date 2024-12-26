@@ -8,23 +8,24 @@ If you don't have tkinter module installed, follow the steps below
 #### Debian/Ubuntu:
 
 ```bash
-sudo apt install python3-tk -y
+sudo apt install python3-tk
 ```
 
-#### Fedora:
+#### RHEL/Fedora/CentOS:
 ```bash
-sudo dnf install -y python3-tkinter
+sudo dnf install python3-tkinter
 ```
 
-#### REHL/CentOS6/CentOS7:
+#### Mac
 ```bash
-sudo yum install -y python3-tkinter
+brew install python-tk
 ```
 
+\
 Windows should have it by default.
 
 
-### Setting as a Startup Script
+#### Setting as a Startup Script on windows
 1. Rename the `clipboard-manager.py` to `clipboard-manager.pyw`
 2. Press `Windows Key + R` to open the Run dialog box.
 3. Type `shell:startup` and press Enter to open the Startup folder.
